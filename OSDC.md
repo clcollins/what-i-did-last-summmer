@@ -12,7 +12,7 @@ I say I am sort of an introvert, but that's really just true in the sense that I
 
 ## An unlikely lifeline
 
-That spring, I found out a buddy and co-worker of mine was a Fairly Well Known Streamer(tm) and had been doing a podcast for something ridiculous like _fifteen years_. For real. This dude casts. Apparently he and his co-host performed their podcast _live_ on Twitch like the cast of Saturday Night Live or something, too! Live! This guy, Stephen Adams, and his sister-in-law and co-host Ashley Hartsell, together with Ashley's husband Jacob Hartsell, read crazy world news and generally get up to all kinds of shenanigans on their podcast _Horseshoes and Handgrenades_.
+That spring, I found out a buddy and co-worker of mine was a Fairly Well Known Streamer(tm) and had been doing a podcast for something ridiculous like _fifteen years_. For real. This dude casts. Apparently he and his co-host performed their podcast _live_ on Twitch like the cast of Saturday Night Live or something! Live! This guy, Stephen Adams, and his sister-in-law and co-host Ashley Hartsell, together with Ashley's husband Jacob Hartsell, read crazy world news and generally get up to all kinds of shenanigans on their podcast _Horseshoes and Handgrenades_.
 
 So, I popped into their Twitch channel, [https://www.twitch.com/2dorkstv](https://www.twitch.com/2dorkstv).  Support the buddy; see what this streaming thing was all about. That kind of thing. Up until now, all I'd really known of streaming was a vague idea that folks played video games online and other people watched them. I didn't realize that there were all kinds of other content out there
 as well, like my buddy and his podcast. I wasn't really sure what to expect, but I figured it'd be good to support my friend.
@@ -86,4 +86,3 @@ You got this!
 _Practically Programming_ is on [https://www.twitch.tv/hammerdwarf](https://www.twitch.tv/hammerdwarf) on Tuesdays and Thursdays at 5PM Pacific.
 
 ...Dwarf Fortress is on almost any other time...
-
