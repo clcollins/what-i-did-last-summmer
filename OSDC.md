@@ -58,11 +58,11 @@ Presentations at tech conferences are filled with complicated, difficult stories
 
 When I realized this, it stood out starkly to me. I have made a (somewhat) respectable career and (somewhat small) online presence talking about cool things I did, with containers and Kubernetes and OpenShift, but the biggest boosts and the most heartfelt feedback I've received has been in discussing my own failings. I've given several presentations about how I have failed at various things, and learned from it. I've written about burnout and feeling like you can't keep up with everyone else. I've given talks about how things are _hard_ and _how the heck to other people do it?!_
 
-These are the things I think help people, and in the moment, I realized that I need to be open about all of my process. Projects I work on take me _forever_ to figure out. Code that I write _sucks_. I'm a senior software engineer/site reliability engineer for a large software company, and I spend _hours and hours_ reading documentation, struggling to figure out how something works, and slowly, slowly incrementing on it. Even that first stream needed a lot of help.
+These are the things I think help people, and in the moment, I realized that I need to be open about all of my process. Projects I work on take me _forever_ to figure out. Code that I write _sucks_. I'm a senior software engineer/site reliability engineer for a large software company, and I spend _hours and hours_ reading documentation, struggling to figure out how something works, and slowly, slowly incrementing on it. Even that first Dwarf Fortress stream needed a lot of help.
 
 And this is normal!
 
-Everyone does this, but we're all so tuned into sharing our successes and hiding our failures that all we can compare our flawed selves to is the successes of other people. We never see their failures, and we try to live up to a standard of illusion.
+Everyone does it, but we're all so tuned into sharing our successes and hiding our failures that all we can compare our flawed selves to is the successes of other people. We never see their failures, and we try to live up to a standard of illusion.
 
 I even struggled to decide if I should create a whole new channel for _Practically Programming_. I spent all this time building a professional career image with my Twitter account - I couldn't show everyone how much of a Dwarf Dork I _really_ was! And once again, Stephen inspired me:
 
@@ -70,7 +70,7 @@ I even struggled to decide if I should create a whole new channel for _Practical
 
 Professional Chris Collins, and personal HammerDwarf, make up who I am. I have a wife and two dogs, and I get sick, and have headaches, and I write for OpenSource.com and EnableSysadmin, and I speak at tech conferences and sometimes, I have to take an afternoon off work to go sit in the sun, or lie awake at night because I miss my friends.
 
-All that to say, my summer project, inspired by Stephen and Ashley and Jacob and the community from 2DorksTv, and powered by open source technology, is to fail publicly and to be real.  To borrow a phrase from another excellent podcast: Fail Out Loud.
+All that to say, my summer project, inspired by Stephen and Ashley and Jacob and the community from 2DorksTv, and powered by open source technology, is to fail publicly and to be real.  To borrow a phrase from another excellent podcast: [Fail Out Loud](https://open.spotify.com/show/1WcfOvSiD99zrVLFWlFHpo).
 
 I've started a streaming program on Twitch called _Practically Programming_, dedicated to showing what it is like for me at work, every week, working on real things and failing and struggling and needing help. I've been in tech for almost twenty years, and I still have to learn every day, and I'm going to do so online where everyone can see me.  Because it's important to show your failures and flaws as much as your successes, and it's important to see others fail and realize it's a normal part of life.
 
