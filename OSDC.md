@@ -19,7 +19,7 @@ as well, like my buddy and his podcast. I wasn't really sure what to expect, but
 
 What I found, I was not prepared for.  Stephen and Ashley and Jacob joked and laughed and (sometimes) read news stories, and interacted with a vibrant community of followers - _live!_  I introduced myself in the chat, and Stephen looked into the camera and welcomed me, as though he were looking at and talking directly to me.  And the latter, at least, was true.  There was a real back and forth.  The community in the chat talked with the hosts and one another, and the hosts interacted with the chat. It was a great time, and I laughed out loud for the first time in several months.
 
-Then, when the show was over, I went upstairs, got into bed and spent the night unable to sleep. I missed my friends and family, but for a brief hour and change, I could see and talk to a group of people and it felt good. And I hadn't felt good in a while. A few days later I found my way to their Discord channel, and the community there - the same folks hosting and watching the show, welcomed me with open arms. I never left - for real. Discord is always open on my computer, and I chat with them in free time while I'm working, and say good morning when I get up and have conversations in the evenings.  It is a social lifeline that I both want, and need.
+Then, when the show was over, I went upstairs, got into bed and spent the night unable to sleep. I missed my friends and family, but for a brief hour and change, I could see and talk to a group of people and it felt good. And I hadn't felt good in a while. A few days later I found my way to their Discord channel, and the community there - the same folks hosting and watching the show - welcomed me with open arms. I never left, for real. Discord is always open on my computer, and I chat with them in free time while I'm working, and say good morning when I get up and have conversations in the evenings.  It is a social lifeline that I both want, and need.
 
 Bear with me, I'm getting to the tech-y opensource-y stuff.
 
@@ -33,11 +33,12 @@ The next day though, I shared what I'd done in the Discord chat, and everyone wa
 
 ## The Open Source behind the stream
 
-Eventually, I started to up my game. Not my Dwarf Fortress game. Losing is !FUN! in Dwarf Fortress. My streaming game got a bit more polished, and more frequent. I created my own official stream: _It's Dwarf Fortress! ...with Hammerdwarf!_  The entire thing, except the platform I stream to, is powered by open source:
+Eventually, I started to up my game. Not my Dwarf Fortress game. Losing is !FUN! in Dwarf Fortress. My streaming game got a bit more polished, though, and more frequent. I created my own official stream: _It's Dwarf Fortress! ...with Hammerdwarf!_  The entire thing, except the platform I stream to, is powered by open source:
 
 * [VLC Media Player](https://www.videolan.org/vlc/index.html) plays the intro and outtro music for me
 * I use [GIMP (GNU Image Manipulation Program)](https://www.gimp.org/) to make the logos and splash screens
 * [OBS Studio](https://obsproject.com/) handles the recording and streaming
+* Both GIMP and OBS are packaged with [Flatpak](https://flatpak.org/), a seriously cool next-generation packaging technology for Linux
 * I've recently started using [OpenShot](https://www.openshot.org/) to edit recordings of my stream before uploading them to
     YouTube
 * Even the fonts I use are Open Font License fonts
@@ -51,11 +52,9 @@ I created a new stream: _It's *not* Dwarf Fortress! ...with Hammerdwarf!_ (Look 
 
 ## A game leads to purpose
 
-Fast forward a few months, and I'm talking (again) with Stephen. Over the months we've discussed how folks represent themselves online, and commiserated with each other about feeling out-of-place at work, fighting to feel like we deserve to be there; to convince ourselves that we're good enough to be there. It's not, I realize, just me or just him. I have this conversation with _so many people_. I realize, and share with him, that it's because there is little representation of _trying_. Everyone shares their success story on Twitter.
+Fast forward a few months, and I'm talking (again) with Stephen. Over the months we've discussed how folks represent themselves online, and commiserated with each other about feeling out-of-place at work, fighting to feel like we deserve to be there; to convince ourselves that we're good enough to be there. It's not, I realize, just me or just him. I have this conversation with _so many people_. I realize, and share with him, that it's because there is little representation of _trying_. Everyone shares their success story on Twitter. They only ever do, or don't. They never share themselves trying. ("Friggin Yoda, man," Steven commented on the matter.  You can see why he's got a successful podcast.)
 
-"Check out this awesome tech my team builds!" "Look at this great thing I did!"
-
-Presentations at tech conferences are filled with complicated, difficult stories, but always success stories. The "internet famous" in our field, developer advocates and tech gurus, et al, share amazing new things and present complicated demos, but are all backed by teams of people working on the product with them. Online, with tech specifically, and honestly the rest of the world generally, you only see the finished sausage, not all the grind.
+Presentations at tech conferences are filled with complicated, difficult stories, but always success stories. The "internet famous" in our field, developer advocates and tech gurus, et al, share amazing new things and present complicated demos, but are all backed by teams of people working on the product with them that no one ever sees. Online, with tech specifically, and honestly the rest of the world generally, you only see the finished sausage, not all the grind.
 
 When I realized this, it stood out starkly to me. I have made a (somewhat) respectable career and (somewhat small) online presence talking about cool things I did, with containers and Kubernetes and OpenShift, but the biggest boosts and the most heartfelt feedback I've received has been in discussing my own failings. I've given several presentations about how I have failed at various things, and learned from it. I've written about burnout and feeling like you can't keep up with everyone else. I've given talks about how things are _hard_ and _how the heck to other people do it?!_
 
